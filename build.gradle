@@ -8,8 +8,11 @@ buildscript {
     }
     repositories {
         google()
+<<<<<<< HEAD
 //        mavenCentral()
         jcenter()
+=======
+>>>>>>> main
         mavenCentral()
     }
     dependencies {
