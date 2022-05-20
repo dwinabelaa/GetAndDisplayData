@@ -45,13 +45,11 @@ dependencies {
     implementation 'androidx.navigation:navigation-ui-ktx:2.3.5'
 
     implementation 'com.google.android.material:material:1.4.0'
-<<<<<<< HEAD
+
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-=======
 
     // Moshi
     implementation 'com.squareup.moshi:moshi-kotlin:1.9.3'
->>>>>>> main
 
     // Retrofit with Moshi Converter
     implementation 'com.squareup.retrofit2:converter-moshi:2.9.0'
@@ -59,8 +57,4 @@ dependencies {
     implementation 'com.squareup.moshi:moshi-kotlin:1.9.3'
     // Coil
     implementation "io.coil-kt:coil:1.1.1"
-<<<<<<< HEAD
-=======
-    
->>>>>>> main
 }
